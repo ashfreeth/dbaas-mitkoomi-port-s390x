@@ -1,0 +1,3 @@
+#!/bin/bash
+
+php test.php -D -H 9.26.176.96 -z `hostname -f`

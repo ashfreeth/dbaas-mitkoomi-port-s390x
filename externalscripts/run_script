@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+while true;
+	do
+     		php mikoomi-mongodb-plugin-32.php -D -H 9.26.176.96 -z `hostname -f`
+    		sleep 10
+	done
